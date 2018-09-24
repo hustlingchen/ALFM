@@ -1,4 +1,4 @@
-Aspect-Aware Latent Factor Model
+Aspect-Aware Latent Factor Model (ALFM)
 ========
 
 This is our implementation for the paper:
