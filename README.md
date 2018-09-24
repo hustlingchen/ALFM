@@ -25,9 +25,9 @@ Our code is in java:
  
  Examples:
  ==
- In the codes, we also put three datasets which have been used in our experiments: "Beauty", "Digital Music", "Music Instruments" in the <b> "data" </b> fold
+ In the codes, we also put three datasets which were used in our experiments: "Beauty", "Digital Music", "Music Instruments" in the <b> "data" </b> fold
  
- The model can be tested on the three datasets by frist run "tuningAspectNumberandTopicNumber.java" and then “topicFactorTuning.java"
+ The model can be tested on the three datasets by running "tuningAspectNumberandTopicNumber.java" frist and then “topicFactorTuning.java"
  
  The topic results (based on 5 aspects and 5 topics) are saved in "model/topicmodel/"
 
