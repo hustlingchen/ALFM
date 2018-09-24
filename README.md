@@ -5,7 +5,7 @@ This is our implementation for the paper:
 
 <b>Zhiyong Cheng, Ying Ding, Lei Zhu, Mohan Kankanhalli. [Aspect-Aware Latent Factor Model:  Rating Prediction with Ratings and Reviews.](https://dl.acm.org/citation.cfm?id=3186145)  In Proceedings of WWW '18, Lyon, France, April 23-27, 2018.</b>
 
-Our model is a two-step model: in the first step, a topic model is used to extract the topic representation of aspects; in the second step, the resutls of the topic model is integrated into an aspect-aware latent factor model to estimate users and items latent factors as well as factor weights.
+Our model is worked in two steps: in the first step, a topic model is used to extract the topic representation of aspects; in the second step, the resutls of the topic model are integrated into an aspect-aware latent factor model to estimate users and items latent factors as well as factor weights.
  
  <b>Please cite our WWW'18 paper if you use our codes. Thanks!</b>
  
