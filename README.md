@@ -25,7 +25,7 @@ Our code is in java:
  
  Examples:
  ==
- In the codes, we also put the "Music Instruments" dataset which were used in our experiments: "Music Instruments" in the <b> "data" </b> fold
+ In the <b> "data" </b> fold, we put the "Music Instruments" dataset to show the data format used in the codes.
  
    <b>Data format</b>: "userIndex \t\t itemIndex \t\t rating \t\t reviews". Sentences in reviews are seperated by "||".
  
