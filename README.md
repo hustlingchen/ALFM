@@ -16,10 +16,10 @@ Codes
 Our code is in java: 
 
 <b>"topicmodel"</b> package: the implementation of the topic model: 
-  --  "tuningAspectNumberandTopicNumber.java" is runable to directly get the results by setting data path correctly
+  --  please run "tuningAspectNumberandTopicNumber.java"  to get the results by setting data path correctly
  
 <b>"alfm"</b> package: the implementation of the aspect-aware latent factor model
- -- “topicFactorTuning.java" is runable to get the results. 
+ -- please run “topicFactorTuning.java" to get the results. 
  
  Notice that alfm is implemented based on ["LibRec"](https://www.librec.net/). We already conclude the necessary 'jar' package in the 'Lib' fold
  
