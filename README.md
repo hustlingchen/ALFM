@@ -21,7 +21,7 @@ Our code is in java:
 <b>"alfm"</b> package: the implementation of the aspect-aware latent factor model
  -- please run “topicFactorTuning.java" to get the results. 
  
- Notice that alfm is implemented based on ["LibRec"](https://www.librec.net/). We already conclude the necessary 'jar' package in the 'Lib' fold
+ Notice that alfm is implemented based on ["LibRec"](https://www.librec.net/). We already include the necessary 'jar' packages in the 'lib' fold
  
  Examples:
  ==
