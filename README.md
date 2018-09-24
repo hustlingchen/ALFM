@@ -27,6 +27,8 @@ Our code is in java:
  ==
  In the codes, we also put three datasets which were used in our experiments: "Beauty", "Digital Music", "Music Instruments" in the <b> "data" </b> fold
  
+   <b>Data format</b>: "userIndex \t\t itemIndex \t\t rating \t\t reviews". Sentences in reviews are seperated by "||".
+ 
  The model can be tested on the three datasets by running "tuningAspectNumberandTopicNumber.java" frist and then “topicFactorTuning.java"
  
  The topic results (based on 5 aspects and 5 topics) are saved in "model/topicmodel/"
